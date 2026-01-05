@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: clothing
+---
+spring:
+  application:
+    version: 0.1
+---
+spring:
+  mongodb:
+    database: productios
+    uri: mongodb+srv://webworks62:Sathya307@cluster0.1wcm6mj.mongodb.net/?appName=Cluster0
+---
+server:
+  port: 2143
